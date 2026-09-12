@@ -348,7 +348,12 @@ Potential improvements include:
 * [ ] Deploy the application
 * [ ] Add evaluation metrics
 * [ ] Improve UI/UX
+## 🚀 Future Improvements
 
+- Add advanced AI search capabilities
+- Improve response accuracy
+- Add conversation history
+- Deploy the application online
 ---
 
 ## 📚 What I Learned
